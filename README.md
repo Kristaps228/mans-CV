@@ -1,4 +1,4 @@
-# Mans_CV
+# CV
 Kristaps Fedosejevs
 
 
